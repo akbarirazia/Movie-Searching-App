@@ -1,0 +1,13 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+  min-height: 100vh;
+  background: linear-gradient(to bottom right, #573333, #111d35ee);
+  color: white;
+}
+.glass-bg {
+  backdrop-filter: blur(10px);
+  background: rgba(255, 255, 255, 0.1);
+}
