@@ -13,7 +13,7 @@ body {
   background: rgba(255, 255, 255, 0.1);
 }
 img {
-  aspect-ratio: 2/2;
+  aspect-ratio: 2/2 !important;
   object-fit: fill !important;
   display: absolute !important;
   width: 100% !important;

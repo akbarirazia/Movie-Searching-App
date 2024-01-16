@@ -1,5 +1,4 @@
 import React from "react"
-import sea from "../../assets/sea.jpg"
 
 function Card({ title, year, plot, picture }) {
   return (
@@ -12,17 +11,17 @@ function Card({ title, year, plot, picture }) {
       >
         <div className="w-full relative">
           <img
-            class="object-cover w-full rounded-t-lg h-full md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
+            class="object-cover w-full rounded-t-lg md:h-auto md:w-48 md:rounded-none md:rounded-s-lg h-2/3"
             src={picture}
             alt=""
           />
         </div>
-        <div class="flex flex-col  justify-between p-2 leading-normal">
+        <div className="flex flex-col  justify-between p-2 leading-normal">
           <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
             {title} <small>{year}</small>
           </h5>
           <p
-            class="mb-3 font-normal
+            className="mb-3 font-normal
           text-xs text-gray-700 dark:text-gray-400"
           >
             {plot}
