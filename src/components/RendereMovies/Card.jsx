@@ -1,30 +1,31 @@
 import React from "react"
 import sea from "../../assets/sea.jpg"
 
-function Card() {
+function Card({ title, year, plot, picture }) {
   return (
-    <div className="min-h-2/3  ">
+    <div>
       <a
         href="#"
-        className="flex flex-col  bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 
-       
+        className="flex flex-col  bg-black border border-gray-900 rounded-lg shadow md:max-w-xl hover:bg-red-950 
+      w-5/6 h-full
         "
       >
-        <img
-          class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
-          src={sea}
-          alt=""
-        />
-        <div class="flex flex-col justify-between p-2 leading-normal">
-          <h5 class="mb-2 text-l font-bold tracking-tight text-gray-900 dark:text-white">
-            Noteworthy technology acquisitions 2021
+        <div className="w-full relative">
+          <img
+            class="object-cover w-full rounded-t-lg h-full md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
+            src={picture}
+            alt=""
+          />
+        </div>
+        <div class="flex flex-col  justify-between p-2 leading-normal">
+          <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">
+            {title} <small>{year}</small>
           </h5>
           <p
             class="mb-3 font-normal
           text-xs text-gray-700 dark:text-gray-400"
           >
-            Here are the biggest enterprise technology acquisitions of 2021 so
-            far, in reverse chronological order.
+            {plot}
           </p>
         </div>
       </a>

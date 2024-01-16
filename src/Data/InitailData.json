@@ -1,0 +1,223 @@
+[
+  {
+    "Title": "Squid Game",
+    "Year": "2021–",
+    "Rated": "TV-MA",
+    "Released": "17 Sep 2021",
+    "Runtime": "N/A",
+    "Genre": "Action, Drama, Mystery",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "Lee Jung-jae, Park Hae-soo, Yasushi Iwaki",
+    "Plot": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits with deadly high stakes: a survival game that has a whopping 45.6 billion-won prize at stake.",
+    "Language": "Korean, English, Urdu",
+    "Country": "South Korea",
+    "Awards": "Won 6 Primetime Emmys. 47 wins & 85 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWE3MDVkN2EtNjQ5MS00ZDQ4LTliNzYtMjc2YWMzMDEwMTA3XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.0",
+    "imdbVotes": "518,382",
+    "imdbID": "tt10919420",
+    "Type": "series",
+    "totalSeasons": "1",
+    "Response": "True"
+  },
+  {
+    "Title": "The Nun",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "07 Sep 2018",
+    "Runtime": "96 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Corin Hardy",
+    "Writer": "Gary Dauberman, James Wan",
+    "Actors": "Demián Bichir, Taissa Farmiga, Jonas Bloquet",
+    "Plot": "A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.",
+    "Language": "English, French, Romanian, Latin",
+    "Country": "United States",
+    "Awards": "2 wins & 1 nomination",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "24%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "46/100"
+      }
+    ],
+    "Metascore": "46",
+    "imdbRating": "5.3",
+    "imdbVotes": "167,092",
+    "imdbID": "tt5814060",
+    "Type": "movie",
+    "DVD": "20 Nov 2018",
+    "BoxOffice": "$117,481,222",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Joker",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "04 Oct 2019",
+    "Runtime": "122 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Todd Phillips",
+    "Writer": "Todd Phillips, Scott Silver, Bob Kane",
+    "Actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz",
+    "Plot": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+    "Language": "English, German",
+    "Country": "United States, Canada",
+    "Awards": "Won 2 Oscars. 121 wins & 239 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "69%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "59/100"
+      }
+    ],
+    "Metascore": "59",
+    "imdbRating": "8.4",
+    "imdbVotes": "1,435,395",
+    "imdbID": "tt7286456",
+    "Type": "movie",
+    "DVD": "03 Oct 2019",
+    "BoxOffice": "$335,477,657",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "It",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "08 Sep 2017",
+    "Runtime": "135 min",
+    "Genre": "Horror",
+    "Director": "Andy Muschietti",
+    "Writer": "Chase Palmer, Cary Joji Fukunaga, Gary Dauberman",
+    "Actors": "Bill Skarsgård, Jaeden Martell, Finn Wolfhard",
+    "Plot": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
+    "Language": "English, Hebrew",
+    "Country": "United States, Canada",
+    "Awards": "10 wins & 49 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "Metascore": "69",
+    "imdbRating": "7.3",
+    "imdbVotes": "594,888",
+    "imdbID": "tt1396484",
+    "Type": "movie",
+    "DVD": "19 Dec 2017",
+    "BoxOffice": "$328,874,981",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Insidious",
+    "Year": "2010",
+    "Rated": "PG-13",
+    "Released": "01 Apr 2011",
+    "Runtime": "103 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "James Wan",
+    "Writer": "Leigh Whannell",
+    "Actors": "Patrick Wilson, Rose Byrne, Ty Simpkins",
+    "Plot": "A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "8 wins & 15 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyOTAxMDA0OF5BMl5BanBnXkFtZTcwNzgwNTc1NA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "67%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "52/100"
+      }
+    ],
+    "Metascore": "52",
+    "imdbRating": "6.8",
+    "imdbVotes": "334,830",
+    "imdbID": "tt1591095",
+    "Type": "movie",
+    "DVD": "03 Jun 2015",
+    "BoxOffice": "$54,009,150",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Conjuring",
+    "Year": "1896",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "1 min",
+    "Genre": "Short",
+    "Director": "Georges Méliès",
+    "Writer": "N/A",
+    "Actors": "Georges Méliès",
+    "Plot": "Boognish the goddemon Wants your soul to perform tricks for him. WEEN is your only salvation.",
+    "Language": "None",
+    "Country": "France",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDcwOWExZGYtMzk3Mi00ODczLWE3MTQtNGRhNjMyMTBlMGY1XkEyXkFqcGdeQXVyNzUyMjQ3NTQ@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.6",
+    "imdbVotes": "164",
+    "imdbID": "tt0000123",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+]
