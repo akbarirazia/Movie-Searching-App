@@ -5,7 +5,7 @@
 body {
   min-height: 100vh;
 
-  background: linear-gradient(to bottom right, #573333, #111d35ee);
+  background: linear-gradient(to bottom right, #111d35ee, #573333);
   color: white;
 }
 .glass-bg {

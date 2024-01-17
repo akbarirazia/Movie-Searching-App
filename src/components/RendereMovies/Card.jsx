@@ -2,7 +2,7 @@ import React from "react"
 
 function Card({ title, year, plot, picture }) {
   return (
-    <div>
+    <div className="flex justify-center">
       <a
         href="#"
         className="flex flex-col  bg-black border border-gray-900 rounded-lg shadow md:max-w-xl hover:bg-red-950 
