@@ -3,6 +3,7 @@ import Navbar from "../components/Navbar/Navbar"
 import Placeholder from "../components/Placeholder"
 import RenderedMovies from "../components/RendereMovies"
 import Footer from "../components/Footer"
+import DefaultCards from "../components/RendereMovies/defaultCards"
 
 function HomePage() {
   return (
@@ -10,6 +11,7 @@ function HomePage() {
       <Navbar />
       <Placeholder />
       <RenderedMovies />
+      <DefaultCards />
       <Footer />
     </div>
   )
