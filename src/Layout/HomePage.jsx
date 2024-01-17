@@ -7,7 +7,7 @@ import DefaultCards from "../components/RendereMovies/DefaultCards"
 
 function HomePage() {
   return (
-    <div className=" py-3 px-5 h-full m-4 ">
+    <div className=" lg:py-3 lg:px-5 h-full lg:m-4 sm:m-0">
       <Navbar />
       <Placeholder />
       <RenderedMovies />

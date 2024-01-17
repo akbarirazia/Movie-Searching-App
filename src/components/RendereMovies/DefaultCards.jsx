@@ -19,7 +19,7 @@ function DefaultCards() {
       <h3 className="text-center">Trending</h3>
       <hr />
       <br />
-      <div className="w-full  grid lg:grid-cols-4 sm:grid-cols-1 md:grid-cols-2 sm:gap-4 place-items-center place-content-center ">
+      <div className="w-full  grid lg:grid-cols-4 sm:grid-cols-1 md:grid-cols-2 sm:gap-4 place-items-center place-content-center gap-2">
         {defaultCards}
       </div>
     </>
