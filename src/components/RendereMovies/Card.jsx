@@ -4,7 +4,7 @@ function Card({ title, year, plot, picture }) {
   return (
     <div className="flex justify-center">
       <a
-        href="#"
+        href=""
         className="flex flex-col  bg-black border border-gray-900 rounded-lg shadow md:max-w-xl hover:bg-slate-950 
       w-5/6 h-full
         "
