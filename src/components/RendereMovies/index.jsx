@@ -49,6 +49,7 @@ function RenderedMovies() {
             year={data.Year}
             plot={data.Plot}
             picture={data.Poster}
+            director={data.Director}
           />
         </div>
       ) : (

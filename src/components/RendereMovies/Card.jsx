@@ -1,10 +1,15 @@
-import React from "react"
+import React, { useState } from "react"
+import Modal from "./Modal"
 
-function Card({ title, year, plot, picture }) {
+function Card({ title, year, plot, picture, director }) {
+  const [isOpen, setIsOpen] = useState(false)
+  // console.log(director)
   return (
     <div className="flex justify-center">
       <a
-        href=""
+        onClick={() => {
+          setIsOpen(true)
+        }}
         className="flex flex-col  bg-black border border-gray-900 rounded-lg shadow md:max-w-xl hover:bg-slate-950 
       w-5/6 h-full
         "
@@ -22,12 +27,19 @@ function Card({ title, year, plot, picture }) {
           </h5>
           <p
             className="mb-3 font-normal
-          text-xs text-gray-700 dark:text-gray-400"
+          text-xs text-gray-700 dark:text-gray-400  "
           >
             {plot}
           </p>
         </div>
       </a>
+      <Modal
+        isOpen={isOpen}
+        isClose={() => {
+          setIsOpen(false)
+        }}
+        data={{ title, year, plot, picture, director }}
+      />
     </div>
   )
 }

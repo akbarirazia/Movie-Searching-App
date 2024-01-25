@@ -10,6 +10,7 @@ function DefaultCards() {
         year={data.Year}
         plot={data.Plot}
         picture={data.Poster}
+        director={data.Director}
         key={index}
       />
     )
