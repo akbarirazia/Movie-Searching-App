@@ -39,8 +39,8 @@ function RenderedMovies() {
 
   return (
     <>
-      <h3 className="text-center">Your searched film</h3>
-      <hr />
+      <h3 className="text-center text-xl font-bold">Your searched film</h3>
+      <hr className=" border-gray-500 " />
       <br />
       {searchContext.query ? (
         <div className=" grid sm:gap-4 place-items-center place-content-center grid-col-4">
@@ -54,7 +54,7 @@ function RenderedMovies() {
         </div>
       ) : (
         <small className="block text-center text-gray-500 mb-4">
-          Nothing to show!
+          Try searching for one!
         </small>
       )}
     </>
